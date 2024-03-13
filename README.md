@@ -2,16 +2,16 @@
 # my skill
 ## Mobile
   - Flutter
-## Web
+### Web
   - React
-## Backend
+### Backend
   - NestJS
   - FastifyJS
   - expressJS
   - Golang
-## DATA
+### Data
  - Airflow
-## infrastructure
+### Infrastructure
 - Docker
 - k8s (basis)
 
