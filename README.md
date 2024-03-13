@@ -3,7 +3,7 @@
 
 [2024](https://github.com/Mrkonxyz/brag-documents/blob/main/2024.md)
 ### my skill
-## Mobile
+### Mobile
   - Flutter
 ### Web
   - React
